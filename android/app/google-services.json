@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "343952832062",
+    "firebase_url": "https://libraryservices-73157.firebaseio.com",
+    "project_id": "libraryservices-73157",
+    "storage_bucket": "libraryservices-73157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343952832062:android:4b5cbf935c6b98aad6036f",
+        "android_client_info": {
+          "package_name": "com.example.libraryservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343952832062-k0v6pv9v6fo99dbi2pk4pae3bjbbd9ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.libraryservices",
+            "certificate_hash": "5a67de8ef956ddc9b39ef76f49b15c6edf81311d"
+          }
+        },
+        {
+          "client_id": "343952832062-1gh873oob3nnk8lojp16bedjta5pspbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZWVxG_qBOKOd3I-hizcgrmEmXXWeNc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343952832062-1gh873oob3nnk8lojp16bedjta5pspbv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343952832062-ih5mo1t7dmtpmrurm21qttps5bt8beit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frankdroid7.libaryMessagingSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343952832062:android:1bec06830206b7d1d6036f",
+        "android_client_info": {
+          "package_name": "com.frankdroid7.libary_messaging_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343952832062-s6g5cf0bus77ai462dubvkslprp1dnkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frankdroid7.libary_messaging_system",
+            "certificate_hash": "5a67de8ef956ddc9b39ef76f49b15c6edf81311d"
+          }
+        },
+        {
+          "client_id": "343952832062-1gh873oob3nnk8lojp16bedjta5pspbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZWVxG_qBOKOd3I-hizcgrmEmXXWeNc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343952832062-1gh873oob3nnk8lojp16bedjta5pspbv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343952832062-ih5mo1t7dmtpmrurm21qttps5bt8beit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frankdroid7.libaryMessagingSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
